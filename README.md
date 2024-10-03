@@ -45,7 +45,7 @@ mysql -u tu_usuario -p tu_base_de_datos < src/database/schema.sql
 
 6. Inicia la aplicación:
 ```bash
-python run.py
+python index.py
 ```
 
 ## Estructura del Proyecto
