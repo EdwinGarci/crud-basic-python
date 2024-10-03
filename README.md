@@ -38,7 +38,7 @@ MYSQL_DB_PASSWORD=tu_contraseña
 MYSQL_DB_NAME=nombre_db
 ```
 
-5. Ejecuta el script de base de datos (si existe):
+5. Ejecuta el script de base de datos:
 ```bash
 mysql -u tu_usuario -p tu_base_de_datos < src/database/schema.sql
 ```
